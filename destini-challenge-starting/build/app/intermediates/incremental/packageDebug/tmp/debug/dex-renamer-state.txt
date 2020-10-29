@@ -1,0 +1,4 @@
+#Sun Oct 25 15:55:55 IST 2020
+base.0=E\:\\Flutter\\destini-challenge-starting\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
