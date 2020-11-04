@@ -5,6 +5,11 @@ These are some apps I learned to build from scratch with the help of Angela Yu a
 <<<<<<< HEAD
 =======
 ## ScreenShots 
+### clima (Weather App)
+![Screenshot_2020-11-03-18-26-25-041_co appbrewery clima](https://user-images.githubusercontent.com/48583189/98073212-d7856e00-1e8d-11eb-90be-a0a7217495da.jpg)
+![Screenshot_2020-11-03-18-58-31-125_co appbrewery clima](https://user-images.githubusercontent.com/48583189/98073214-d94f3180-1e8d-11eb-9d0a-ba27e521f972.jpg)
+![Screenshot_2020-11-03-18-58-45-747_co appbrewery clima](https://user-images.githubusercontent.com/48583189/98073216-d9e7c800-1e8d-11eb-8645-44feaff41b68.jpg)
+![Screenshot_2020-11-03-18-26-21-840_co appbrewery clima](https://user-images.githubusercontent.com/48583189/98073217-d9e7c800-1e8d-11eb-9af4-b0b616e7b85c.jpg)
 ### mi_card
 ![1603956591978](https://user-images.githubusercontent.com/48583189/97539883-c1d4fc00-19e8-11eb-8760-57e36b780493.jpg)
 ### dicee
