@@ -2,9 +2,13 @@
 
 These are some apps I learned to build from scratch with the help of Angela Yu and her course. I've made few changes of my own. Feel free to use them. For any queries contact me @ suyogshelar06@gmail.com. Happy Coding!! 
 
-<<<<<<< HEAD
 =======
 ## ScreenShots 
+###Bitcoin Ticker
+![1604909381501](https://user-images.githubusercontent.com/48583189/98515569-3897b200-2291-11eb-8299-03434fdc25d5.jpg)
+![1604909381504](https://user-images.githubusercontent.com/48583189/98515578-3a617580-2291-11eb-89c4-eda3906786cb.jpg)
+![1604909381497](https://user-images.githubusercontent.com/48583189/98515580-3a617580-2291-11eb-97a5-af3f91a55dc4.jpg)
+
 ### clima (Weather App)
 ![Screenshot_2020-11-03-18-26-25-041_co appbrewery clima](https://user-images.githubusercontent.com/48583189/98073212-d7856e00-1e8d-11eb-90be-a0a7217495da.jpg)
 ![Screenshot_2020-11-03-18-58-31-125_co appbrewery clima](https://user-images.githubusercontent.com/48583189/98073214-d94f3180-1e8d-11eb-9d0a-ba27e521f972.jpg)
